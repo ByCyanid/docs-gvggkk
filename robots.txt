@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-0fmda3.salamcuan.online/sitemap.xml
